@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "react-question",
   "private": true,
   "version": "0.0.0",
@@ -24,4 +25,25 @@
     "globals": "^16.3.0",
     "vite": "^7.1.2"
   }
+=======
+  "name": "react-native-question",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~53.0.22",
+    "expo-status-bar": "~2.2.3",
+    "react": "19.0.0",
+    "react-native": "0.79.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+>>>>>>> 2f22e2f9625f96b00f007e961f036821d53386b7
 }
